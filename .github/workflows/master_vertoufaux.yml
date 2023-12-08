@@ -59,4 +59,4 @@ jobs:
           app-name: 'VertOuFaux'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BFA6878693F4937B99CAA72FA66096C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8F36D5024134988B006821ABAEDBA04 }}
